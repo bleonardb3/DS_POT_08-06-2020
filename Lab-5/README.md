@@ -20,6 +20,6 @@ Upon completing the lab, you will know how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_04-30-2020/raw/master/Lab-5/Machine%20Learning%20with%20SparkML6.2.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_08-06-2020/raw/master/Lab-5/Machine%20Learning%20with%20SparkML6.2.pdf).
 
 
