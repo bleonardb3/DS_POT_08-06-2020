@@ -1,6 +1,6 @@
 # Lab-8
 ## Introduction
-Labs 3,4, and 5 are dependent on Lab-2 completing successfully. We are providing the steps in this Appendix to satisfy the prerequisites for Labs 3,4, and 5 in the case that Lab-2 is not completed successfully. 
+Labs 3,4, and 5 are dependent on Lab-2 completing successfully. We are providing the steps in this lab to satisfy the prerequisites for Labs 3,4, and 5 in the case that Lab-2 is not completed successfully. 
 
 ## Objectives
 In this lab, you will learn how to:
@@ -12,7 +12,7 @@ In this lab, you will learn how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_04-30-2020/raw/master/Lab-8-Appendix/Appendixv1.0.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_08-06-2020/raw/master/Lab-8-Appendix/Appendixv1.1.pdf).
 
 
 
