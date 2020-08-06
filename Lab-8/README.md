@@ -12,7 +12,7 @@ In this lab, you will learn how to:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_08-06-2020/raw/master/Lab-8-Appendix/Appendixv1.1.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_08-06-2020/raw/master/Lab-8/Appendixv1.1.pdf).
 
 
 
