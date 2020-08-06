@@ -17,10 +17,12 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 1. [Lab-4](Lab-4) - In this lab, you will use the Watson SPSS Modeler capability to explore, prepare, and model the trafficking data. The SPSS Modeler is a drag and drop capability to build machine learning pipelines.
 
-1. [Lab-5](Lab-5) - In this lab, you will use SparkML in Watson Studio to run simulated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a DB2 Warehouse database.
+1. [Lab-5](Lab-5) - In this lab, you will use SparkML in Watson Studio to run simulated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a DB2 Warehouse database. If you did not successfully complete Lab-2, please go to Lab-9 to do the notebook lab. 
 
 1. [Lab-6](Lab-6) -This lab consists of two parts. The first part will demonstrate the new and exciting AutoAI capability to build and deploy an optimized model based on the trafficking data sets. The second part will deploy an application using the IBM Cloud DevOps toolchain that will invoke the deployed model to predict the human trafficking risk. 
 
 1. [Lab-7](Lab-7) - This lab will feature Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI. 
 
 1. [Lab-8](Lab-8) - This lab will fulfill the prerequisites for Labs 3,4, and 5, if Lab-2 is not completed successfully. 
+
+1. [Lab-9](Lab-9) - This lab is a replacement for Lab-5 if Lab-2 is not completed successfully
