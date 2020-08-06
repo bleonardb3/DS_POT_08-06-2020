@@ -1,4 +1,4 @@
-# Lab-8: Appendix
+# Lab-8
 ## Introduction
 Labs 3,4, and 5 are dependent on Lab-2 completing successfully. We are providing the steps in this Appendix to satisfy the prerequisites for Labs 3,4, and 5 in the case that Lab-2 is not completed successfully. 
 
